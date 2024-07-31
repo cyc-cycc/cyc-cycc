@@ -1,5 +1,1 @@
-一个没事写写VB的无聊二次元初生
-<!---
-cyc-cycc/cyc-cycc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&width=435&lines=一个没事写写VB的无聊二次元初生)](https://github.com/cyc-cycc)
